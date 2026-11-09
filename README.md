@@ -1,7 +1,7 @@
 <a href="https://github.com/GarlenWoest">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <img alt="Garlen Woest | MS Business Analytics @ Case Western | Finance, valuation, credit risk, ML" src="light_mode.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="card-dark.svg">
+    <img alt="Garlen Woest | MS Business Analytics @ Case Western | Finance, valuation, credit risk, ML" src="card-light.svg" width="100%">
   </picture>
 </a>
 

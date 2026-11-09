@@ -223,7 +223,7 @@ def main():
     else:
         stats = load_cached()
     for theme in THEMES:
-        (ROOT / f"{theme}_mode.svg").write_text(build(theme, stats))
+        (ROOT / f"card-{theme}.svg").write_text(build(theme, stats))
     print("stats:", stats)
 
 

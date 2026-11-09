@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dark_mode.svg light_mode.svg assets/
+          git add card-dark.svg card-light.svg assets/
           git diff --cached --quiet || git commit -m "Update profile card stats"
           git push
