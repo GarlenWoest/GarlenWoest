@@ -24,7 +24,6 @@ PROFILE = [
     ("Program", "MS Business Analytics & Intelligence"),
     ("Background", "BSBA Finance, John Carroll University"),
     ("Experience", "Private Equity Intern, MCM Capital"),
-    ("Founder", "Talent Harbor"),
     ("Location", "Cleveland, OH | Hamburg, DE"),
     None,
     ("Languages.Programming", "Python, SQL"),
