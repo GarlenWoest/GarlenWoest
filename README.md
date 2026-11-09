@@ -10,18 +10,9 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
       <img alt="LinkedIn" src="assets/btn-linkedin-light.svg" width="32%">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://github.com/GarlenWoest?tab=repositories">
+    </picture></a>&nbsp;&nbsp;<a href="https://github.com/GarlenWoest?tab=repositories">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/btn-projects-dark.svg">
       <img alt="Projects" src="assets/btn-projects-light.svg" width="32%">
-    </picture>
-  </a>
+    </picture></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GarlenWoest/GarlenWoest/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GarlenWoest/GarlenWoest/output/pacman-contribution-graph.svg" width="100%">
-</picture>
